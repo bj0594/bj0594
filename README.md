@@ -2,7 +2,7 @@
 
 C#, .NET and SQL at Kodehode, a developer training program in Bergen, Norway. Background as a service technician and retail manager, including building a repair workshop from scratch.
 
-**How I work:** I write the test before the code and use AI as a tool, but I only commit code I can explain.
+**How I work:** I write tests for every part of the production code, increasing efficiency by only usingAI for mindless work
 
 **Right now:** Practicing TDD in C# every day and planning a backend project to be built in November.
 
